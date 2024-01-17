@@ -1,0 +1,56 @@
+body {
+    font-family: 'Calibri', sans-serif;
+    background: linear-gradient(to bottom, #87CEEB, #f5f5f5); 
+    margin: 0;
+}
+/* register/css/style1.css */
+
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 50px;
+}
+
+h1 {
+    color: #333;
+}
+
+/* Apply styles to form elements */
+form {
+   display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 20px 0 12px 0;
+}
+
+/* Apply styles to form labels */
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+/* Apply styles to form inputs */
+input[type="text"],
+input[type="password"] {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+}
+
+input[type="submit"] {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+}
+
+input[type="submit"]:hover {
+    background-color: #0056b3;
+}
