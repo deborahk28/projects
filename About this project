@@ -1,1 +1,5 @@
-The login and register pages, implemented with Django, offer a seamless and visually appealing user authentication experience. The clean and centered design, powered by simple HTML and CSS, ensures an intuitive interface for users. The login page prompts users for their credentials, while the register page facilitates new user sign-ups. Django handles the backend processes, ensuring secure authentication and form submissions. Together, these pages create a cohesive and user-friendly environment for accessing and interacting with the web application.
+The login and register pages, implemented with Django, offer a seamless and visually appealing user authentication experience. 
+The clean and centered design, powered by simple HTML and CSS, ensures an intuitive interface for users. 
+The login page prompts users for their credentials, while the register page facilitates new user sign-ups.
+Django handles the backend processes, ensuring secure authentication and form submissions.
+Together, these pages create a cohesive and user-friendly environment for accessing and interacting with the web application.
